@@ -1,3 +1,12 @@
+# 2021-12-14 [@frederikstroem](https://github.com/frederikstroem) Modifications
+Drew new images for a deep learning course on SDU.
+
+**Drawing app:** [Krita](https://krita.org/en)
+
+**Graphics tablet:** [Wacom INTUOS Pen Small](https://101.wacom.com/UserHelp/en/TOC/CTL-480.html)
+
+**OS:** Arch Linux
+
 # JPG-and-PNG-to-MNIST
 
 Super simple method for converting a set of jpg and/or png images (or a mix) into mnist binary format for training (depends on imagemagick and python 2.7 PIL)
