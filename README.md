@@ -1,11 +1,16 @@
 # 2021-12-14 [@frederikstroem](https://github.com/frederikstroem) Modifications
 Drew new images for a deep learning course on SDU.
 
-**Drawing app:** [Krita](https://krita.org/en)
+**Drawing app:** [GIMP](https://www.gimp.org/)
 
 **Graphics tablet:** [Wacom INTUOS Pen Small](https://101.wacom.com/UserHelp/en/TOC/CTL-480.html)
 
 **OS:** Arch Linux
+
+## GIMP settings
+I drew white on black using the Paintbrush Tool settings:
+
+![image](https://user-images.githubusercontent.com/17912119/145985789-885bf4df-c6c7-4de0-a5bc-c9c8750cdfb3.png)
 
 # JPG-and-PNG-to-MNIST
 
